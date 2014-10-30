@@ -4,10 +4,10 @@
 
 ## 最新的文字在这里 ##
 
-### Ch1 ###
-* 1. [Day1](/Ch1/Day1.md "Day1")
-* 2. [Day2](/Ch1/Day2.md "Day2")
-* 3. [Day3](/Ch1/Day3.md "Day3")
-* 4. [Day4](/Ch1/Day4.md "Day4")
+### 第一章 前尘与往事 ###
+* 1. [第一天，舰桥](/Ch1/Day1.md "舰桥")
+* 2. [第二天，和时间有关](/Ch1/Day2.md "时间的")
+* 3. [第三天，我的工作](/Ch1/Day3.md "工作")
+* 4. [第四天，关于基地](/Ch1/Day4.md "关于基地")
 
-### 微博更新，在[这里](http://weibo.com/zzj666 "ZZJ666's Weibo") ###
+### 微博更新，在[这里](http://weibo.com/zzj666 "My Weibo on Sina.com") 还有[这里](http://t.qq.com/zhouzongjian "Also My Weibo on Tencent Web") ###
