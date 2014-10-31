@@ -13,6 +13,6 @@
 * 3. [第三天，我的工作](/Ch1/Day3.md "工作")
 * 4. [第四天，关于基地](/Ch1/Day4.md "关于基地")
 * 5. [第五天，黑洞频率（一）](/Ch1/Day5.md "黑洞频率（一）")
-* 6. [第六天，黑洞频率（二）](/ch1/Day6.md "黑洞频率（二）")
+* 6. [第六天，黑洞频率（二）](/Ch1/Day6.md "黑洞频率（二）")
 
 ### 微博更新，在[这里](http://weibo.com/zzj666 "My Weibo on Sina.com") 还有[这里](http://t.qq.com/zhouzongjian "Also My Weibo on Tencent Web") ###
